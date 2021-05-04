@@ -1,0 +1,286 @@
+Package: angband
+Architecture: i686
+Installed-Size: 22432
+Maintainer: Fredrik Fornwall @fornwall
+Version: 4.2.0-1
+Homepage: http://rephial.org/
+Depends: ncurses
+Description: Dungeon exploration adventure game
+Filename: i686/angband_4.2.0-1_i686.deb
+SHA1: e9b859255883788f86de58510b348008a52186e3
+SHA256: 20cedcc4a09f5333e8c264079dd50250b3f43f315d24397b42638d674850ab3c
+Size: 20145108
+
+Package: bastet
+Architecture: i686
+Installed-Size: 264
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 0.43.2-2
+Homepage: http://fph.altervista.org/prog/bastet.html
+Depends: boost, ncurses
+Description: Tetris clone with 'bastard' block-choosing AI
+Filename: i686/bastet_0.43.2-2_i686.deb
+SHA1: ec3c9252c8c95e280f8c81265a8c4fa824dee531
+SHA256: b67f8e9e80c6cc7fc21eb3d451b354739f2de2e30e6e3422a8ef2082e4a6e7f3
+Size: 68076
+
+Package: bastet
+Architecture: i686
+Installed-Size: 264
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 0.43.2-3
+Homepage: http://fph.altervista.org/prog/bastet.html
+Depends: boost, ncurses
+Description: Tetris clone with 'bastard' block-choosing AI
+Filename: i686/bastet_0.43.2-3_i686.deb
+SHA1: f671b00b1f687bfa3cd8727061733fd253e675f8
+SHA256: ccde1a214ab46cdc19ccbe8eb170714304a34d49dd46e31a53dabdecb4ce5e52
+Size: 68096
+
+Package: brogue
+Architecture: i686
+Installed-Size: 900
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.7.5-1
+Homepage: https://sites.google.com/site/broguegame/
+Depends: ncurses
+Description: Roguelike dungeon crawling game
+Filename: i686/brogue_1.7.5-1_i686.deb
+SHA1: 52a5f6091daac52c4b36f97ad35b58fc9811c574
+SHA256: 0515674394afc0c9d042168dad7bdfe91c09c97deb2c199477aacb9a041d861b
+Size: 224416
+
+Package: cavez-of-phear
+Architecture: i686
+Installed-Size: 136
+Maintainer: Henrik Grimler @Grimler91
+Version: 0.5.1-1
+Homepage: https://github.com/haakonnessjoen/Cavez-of-Phear-packaging
+Depends: ncurses
+Description: A Boulder Dash like game for consoles/terminals
+Filename: i686/cavez-of-phear_0.5.1-1_i686.deb
+SHA1: da8aecbbe1bf13dd3044582ad935a82451765eb5
+SHA256: c9b538f634f8635f4a33b99d51512f617d94f36536849d4f38a99cd70ea4efb8
+Size: 13290
+
+Package: curseofwar
+Architecture: i686
+Installed-Size: 96
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.2.0-4
+Homepage: http://a-nikolaev.github.io/curseofwar/
+Depends: ncurses
+Description: Fast-paced action strategy game focusing on high-level strategic planning
+Filename: i686/curseofwar_1.2.0-4_i686.deb
+SHA1: 23643f32c72dd37edd1b1b232c328a3ed9ec3686
+SHA256: 13256f478d090ba2a7a0df53d123f30ad6fe436fe77a6e02abfba8a2f00a3444
+Size: 23584
+
+Package: dopewars
+Architecture: i686
+Installed-Size: 720
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.5.12-1
+Homepage: https://dopewars.sourceforge.io
+Depends: ncurses, glib, pcre
+Description: Drug-dealing game set in streets of New York City
+Filename: i686/dopewars_1.5.12-1_i686.deb
+SHA1: 50cdf9660f90806828a9a8c6da2d6d8e973417d6
+SHA256: 738bad424916668e614e2b7f678a96d469dfca2bcd2870a1a1df18112a90cdbd
+Size: 248642
+
+Package: frotz
+Architecture: i686
+Installed-Size: 140
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.44-4
+Homepage: https://github.com/DavidGriffith/frotz
+Depends: ncurses, dialog, curl
+Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
+Filename: i686/frotz_2.44-4_i686.deb
+SHA1: 906ff6544d17d24ccc60aea29128bcbf14c18ee9
+SHA256: e402c2546ce3eb2f5adc708618d27d2a70ca7ff2f144069bda7622fca3c11dd8
+Size: 42638
+
+Package: glulxe
+Architecture: i686
+Installed-Size: 300
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.5.4-2
+Homepage: https://www.eblong.com/zarf/glulx/
+Depends: ncurses
+Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
+Filename: i686/glulxe_0.5.4-2_i686.deb
+SHA1: 8effbec7321518d6ffd52c5585ed6478d33af5d7
+SHA256: df43f1fd3d1e5be78be545e05a4da74dd708b62bd6e24d5893a30e4afbf49bd3
+Size: 75984
+
+Package: gnugo
+Architecture: i686
+Installed-Size: 7096
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.8-2
+Homepage: https://www.gnu.org/software/gnugo/
+Depends: ncurses, readline
+Description: Program that plays the game of Go
+Filename: i686/gnugo_3.8-2_i686.deb
+SHA1: aedce0b76b495bd0746c975f14f8b1cf826545e2
+SHA256: 2a705dd88bf889e5c56142b33ba15e6be8482820708434bde59cea1ab79e43be
+Size: 854796
+
+Package: gnushogi
+Architecture: i686
+Installed-Size: 168
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.4.2-2
+Homepage: https://www.gnu.org/software/gnushogi/
+Depends: ncurses
+Description: Program that plays the game of Shogi, also known as Japanese Chess
+Filename: i686/gnushogi_1.4.2-2_i686.deb
+SHA1: 1e017f2b4c1baf0a4971a35c299c1af98e8a0c02
+SHA256: 94d8915771221717ff3ae3e47204f89ddb642cbd06cb2bbd5672e870672bffdd
+Size: 58910
+
+Package: greed
+Architecture: i686
+Installed-Size: 72
+Maintainer: Fredrik Fornwall @fornwall
+Version: 4.2-2
+Homepage: http://www.catb.org/~esr/greed/
+Depends: ncurses
+Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
+Filename: i686/greed_4.2-2_i686.deb
+SHA1: 136486e3aca15cbdc62e82e73d587c3f98e92814
+SHA256: 644ff835c260861ded054e82f83b70e3618268ee18cc5df2b2e73a52834d1314
+Size: 8768
+
+Package: moon-buggy
+Architecture: i686
+Installed-Size: 120
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.51-3
+Homepage: https://github.com/seehuhn/moon-buggy
+Depends: ncurses
+Description: Simple game where you drive a car across the moon's surface
+Filename: i686/moon-buggy_1.0.51-3_i686.deb
+SHA1: 670b736ecf43d998792c3bc6479081f81957568c
+SHA256: f1be3214a40e228a577a4b110f929bee9d34615a5032dedc15e17a7e47c2d8ba
+Size: 28064
+
+Package: moria
+Architecture: i686
+Installed-Size: 664
+Maintainer: Oliver Schmidhauser @Neo-Oli
+Version: 5.7.10-1
+Homepage: https://umoria.org
+Depends: ncurses
+Description: Rogue-like game with an infinite dungeon
+Filename: i686/moria_5.7.10-1_i686.deb
+SHA1: ae4a65da9db0d09cb7bd110f5e78bc183b704b45
+SHA256: 605d5fde24b712aa058dd6d7a27cda0bfe6e9ce59661c4c642b37840f2df5fc8
+Size: 199626
+
+Package: nethack
+Architecture: i686
+Installed-Size: 8280
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 3.6.2-2
+Homepage: http://www.nethack.org/
+Depends: ncurses
+Description: Dungeon crawl game
+Filename: i686/nethack_3.6.2-2_i686.deb
+SHA1: e73ef91a1da2b40fffa5949a61024cd22b869304
+SHA256: ecb21269e1ea720c08a75459780c4d7fcadcd3615ba5c47f6db5277a20cd0802
+Size: 2600848
+
+Package: ninvaders
+Architecture: i686
+Installed-Size: 88
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.1.1-1
+Homepage: http://ninvaders.sourceforge.net
+Depends: ncurses
+Description: Space Invaders clone based on ncurses for ASCII output
+Filename: i686/ninvaders_0.1.1-1_i686.deb
+SHA1: 8e140993800177a5039f6bd1f538749d378d0fb3
+SHA256: 9ee1256dcac357c17550309552adab1ed11f43e1422639c81c7ea769896113e9
+Size: 16524
+
+Package: nsnake
+Architecture: i686
+Installed-Size: 468
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.0.1-1
+Homepage: https://github.com/alexdantas/nSnake
+Depends: ncurses
+Description: The classic snake game with textual interface
+Filename: i686/nsnake_3.0.1-1_i686.deb
+SHA1: 4d26bd93568d1acd4f9bf126301e80fef75f11c2
+SHA256: d0b72fc9973e704bd8f6c84c38e680adb25a9aa765971c8f4f473da0d9ed7006
+Size: 89774
+
+Package: nudoku
+Architecture: i686
+Installed-Size: 68
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.0.0-1
+Homepage: http://jubalh.github.io/nudoku/
+Depends: ncurses
+Description: ncurses based sudoku game
+Filename: i686/nudoku_2.0.0-1_i686.deb
+SHA1: 78e3ec1efea741135c121612904fec7acfe70014
+SHA256: 12fcac6d503c9f008c2927af3ca0534b6ef6bc6336a32218b8dd96147a338158
+Size: 8024
+
+Package: open-adventure
+Architecture: i686
+Installed-Size: 192
+Maintainer: Henrik Grimler @Grimler91
+Version: 1.8-1
+Homepage: http://www.catb.org/~esr/open-adventure/
+Depends: libedit
+Description: Forward-port of the original Colossal Cave Adventure from 1976-77 which was the origin of all later text adventures, dungeon-crawl (computer) games, and computer-hosted roleplaying games
+Filename: i686/open-adventure_1.8-1_i686.deb
+SHA1: ece1551f63138343d2957b553b157ddfbe4a2af2
+SHA256: d839213f25261dbf1eafe5ca37f75c592677e7eb9899c416cf850da42f97c43c
+Size: 44978
+
+Package: pacman4console
+Architecture: i686
+Installed-Size: 140
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.3-1
+Homepage: https://sites.google.com/site/doctormike/pacman.html
+Depends: ncurses
+Description: A 9 level ncurses pacman game with editor
+Filename: i686/pacman4console_1.3-1_i686.deb
+SHA1: 195bebd2a0770c669600d6f5e4410ec195df7e0c
+SHA256: 5ce78a47a3d521bd6589058f17baf330790d6bc64c7b59f439fb6c2c381a9246
+Size: 11768
+
+Package: tty-solitaire
+Architecture: i686
+Installed-Size: 60
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.1-1
+Homepage: https://github.com/mpereira/tty-solitaire
+Depends: ncurses
+Description: Klondike solitaire game
+Filename: i686/tty-solitaire_1.1.1-1_i686.deb
+SHA1: d535ee2a80e9e94a98c905e53275285bcc8acbb5
+SHA256: 4f414714c03467fa49e9067b6598dfb004e32fa94b71f266b7d6be8c8124c399
+Size: 7744
+
+Package: vitetris
+Architecture: i686
+Installed-Size: 152
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.58.0-1
+Homepage: http://victornils.net/tetris/
+Depends: ncurses
+Description: Virtual terminal *tris clone
+Filename: i686/vitetris_0.58.0-1_i686.deb
+SHA1: 72399870d7af0db85b471eba655f8c33c4051447
+SHA256: 53a03642d2781086858c3cebd8cbfb83f301eff1a06d9a732a1f7a3d085cfaa1
+Size: 44962
+

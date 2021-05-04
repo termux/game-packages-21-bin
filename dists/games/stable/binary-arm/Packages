@@ -1,0 +1,286 @@
+Package: angband
+Architecture: arm
+Installed-Size: 21792
+Maintainer: Fredrik Fornwall @fornwall
+Version: 4.2.0-1
+Homepage: http://rephial.org/
+Depends: ncurses
+Description: Dungeon exploration adventure game
+Filename: arm/angband_4.2.0-1_arm.deb
+SHA1: 7a0d7b9ce4b91576eb0a1a6a7781cc746201af68
+SHA256: 4e5b7a9cfb414ffa7dba29f279ebc4d8ee19c36a9e9c160ff3d016c86933a9ed
+Size: 20104482
+
+Package: bastet
+Architecture: arm
+Installed-Size: 204
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 0.43.2-2
+Homepage: http://fph.altervista.org/prog/bastet.html
+Depends: boost, ncurses
+Description: Tetris clone with 'bastard' block-choosing AI
+Filename: arm/bastet_0.43.2-2_arm.deb
+SHA1: 10da8817ac82ffd81a79ed2f9a3c85c537832a3f
+SHA256: edbe94fb44331ab168257f37d57a68d1a64021d30b5a7fd026afc97534efc117
+Size: 57550
+
+Package: bastet
+Architecture: arm
+Installed-Size: 204
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 0.43.2-3
+Homepage: http://fph.altervista.org/prog/bastet.html
+Depends: boost, ncurses
+Description: Tetris clone with 'bastard' block-choosing AI
+Filename: arm/bastet_0.43.2-3_arm.deb
+SHA1: 4261e13c054b2a5e8e661fb4a1f996d3035a79df
+SHA256: 79d92f2db687ec39cd418fc8a31edbe63533794075bbdb746af10c42f2160df8
+Size: 57542
+
+Package: brogue
+Architecture: arm
+Installed-Size: 824
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.7.5-1
+Homepage: https://sites.google.com/site/broguegame/
+Depends: ncurses
+Description: Roguelike dungeon crawling game
+Filename: arm/brogue_1.7.5-1_arm.deb
+SHA1: 603639c2ad1fc8ca1b4acd0bebf783561d55d8cb
+SHA256: d39ee5d8a81c99aa48abd805482be1cdf276faeb6ca167d20c0c763ee8082606
+Size: 225358
+
+Package: cavez-of-phear
+Architecture: arm
+Installed-Size: 136
+Maintainer: Henrik Grimler @Grimler91
+Version: 0.5.1-1
+Homepage: https://github.com/haakonnessjoen/Cavez-of-Phear-packaging
+Depends: ncurses
+Description: A Boulder Dash like game for consoles/terminals
+Filename: arm/cavez-of-phear_0.5.1-1_arm.deb
+SHA1: c786a698f0d8ed5319350c2d922d8250daea37a1
+SHA256: dd74bcf6b32e73e88475b89b873d973032fc376ae09aea8fce10cf7aff3c5da1
+Size: 15958
+
+Package: curseofwar
+Architecture: arm
+Installed-Size: 88
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.2.0-4
+Homepage: http://a-nikolaev.github.io/curseofwar/
+Depends: ncurses
+Description: Fast-paced action strategy game focusing on high-level strategic planning
+Filename: arm/curseofwar_1.2.0-4_arm.deb
+SHA1: 2d6786ae7319fc69330798de3a4e8ce574f20245
+SHA256: 2c0f42f065e8b583eb53b3ef138f1ee2d41bec3c44aa3844364d6fffb1ac1965
+Size: 22396
+
+Package: dopewars
+Architecture: arm
+Installed-Size: 692
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.5.12-1
+Homepage: https://dopewars.sourceforge.io
+Depends: ncurses, glib, pcre
+Description: Drug-dealing game set in streets of New York City
+Filename: arm/dopewars_1.5.12-1_arm.deb
+SHA1: 010ce12c465d21288f32efd951e1492b3d9c5d30
+SHA256: 3a437a96a006ac8332986813f319ceb27a9a880c0e256dd0dac7594f510e04e5
+Size: 248618
+
+Package: frotz
+Architecture: arm
+Installed-Size: 132
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.44-4
+Homepage: https://github.com/DavidGriffith/frotz
+Depends: ncurses, dialog, curl
+Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
+Filename: arm/frotz_2.44-4_arm.deb
+SHA1: ac8141341ee28b8148eb3fb13eaa654d9c2fa35a
+SHA256: faa93f60de962b681b55498dd7dc68cad3b871ae1d3030b840b80141935e333d
+Size: 44880
+
+Package: glulxe
+Architecture: arm
+Installed-Size: 260
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.5.4-2
+Homepage: https://www.eblong.com/zarf/glulx/
+Depends: ncurses
+Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
+Filename: arm/glulxe_0.5.4-2_arm.deb
+SHA1: 16db276936a16df4bc166562de28fbf1ab1ee28b
+SHA256: aab5b30283d932f74434b5df8e02872a0f5661c8ec1dd1576b0d540793dba1a1
+Size: 71518
+
+Package: gnugo
+Architecture: arm
+Installed-Size: 6920
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.8-2
+Homepage: https://www.gnu.org/software/gnugo/
+Depends: ncurses, readline
+Description: Program that plays the game of Go
+Filename: arm/gnugo_3.8-2_arm.deb
+SHA1: 2d5aab184cbf54c8a21fd71ebf4c843f482c8c82
+SHA256: ffab4b7a42ad3e7fb84128dfd0bdcae4eaea17b44b86b8b00bd9508acfd676bb
+Size: 859142
+
+Package: gnushogi
+Architecture: arm
+Installed-Size: 156
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.4.2-2
+Homepage: https://www.gnu.org/software/gnushogi/
+Depends: ncurses
+Description: Program that plays the game of Shogi, also known as Japanese Chess
+Filename: arm/gnushogi_1.4.2-2_arm.deb
+SHA1: 07177615d09a4337e7c78c4ca4026dae2fac40e7
+SHA256: eb141d68a59567bb0b3252eeafc8ee5d9e2ee1d8830ce26b07a6a17e49b94d8f
+Size: 63136
+
+Package: greed
+Architecture: arm
+Installed-Size: 72
+Maintainer: Fredrik Fornwall @fornwall
+Version: 4.2-2
+Homepage: http://www.catb.org/~esr/greed/
+Depends: ncurses
+Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
+Filename: arm/greed_4.2-2_arm.deb
+SHA1: 3e455ff6d05313f9bce7ad9e805ad94037626056
+SHA256: 16ffe6951e2453a0af549ddd4f259296bd9b776428c01f7f8aee33472407da29
+Size: 11260
+
+Package: moon-buggy
+Architecture: arm
+Installed-Size: 116
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.0.51-3
+Homepage: https://github.com/seehuhn/moon-buggy
+Depends: ncurses
+Description: Simple game where you drive a car across the moon's surface
+Filename: arm/moon-buggy_1.0.51-3_arm.deb
+SHA1: 15f0824a100f190773106745368eee1ed3bbf618
+SHA256: 7ceb33557c222e338f74bd29a3a93c5e0a36e49ebdd2a57e08946a86b1adcf6e
+Size: 30372
+
+Package: moria
+Architecture: arm
+Installed-Size: 572
+Maintainer: Oliver Schmidhauser @Neo-Oli
+Version: 5.7.10-1
+Homepage: https://umoria.org
+Depends: ncurses
+Description: Rogue-like game with an infinite dungeon
+Filename: arm/moria_5.7.10-1_arm.deb
+SHA1: 125c42b6778f82bca25469931c64338bdd48b853
+SHA256: 7e794a0f7cded2474525c46e7d99fe3c4a2fe2b5e304a3a278dd3ebde387a4e7
+Size: 185780
+
+Package: nethack
+Architecture: arm
+Installed-Size: 7936
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 3.6.2-2
+Homepage: http://www.nethack.org/
+Depends: ncurses
+Description: Dungeon crawl game
+Filename: arm/nethack_3.6.2-2_arm.deb
+SHA1: b9ab77b16c69ff1d813cfbdcfeef9e8d151c1a0c
+SHA256: d0eb53c663cb16dcd7f4ffcade6bc462775588e85cb7fb23d351bb6e053803f0
+Size: 2591572
+
+Package: ninvaders
+Architecture: arm
+Installed-Size: 88
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.1.1-1
+Homepage: http://ninvaders.sourceforge.net
+Depends: ncurses
+Description: Space Invaders clone based on ncurses for ASCII output
+Filename: arm/ninvaders_0.1.1-1_arm.deb
+SHA1: 663a68cfecfc73236676c9cae7cf12290c02c662
+SHA256: 20c4e0c387a91ce21d10e78f948c6d681ccbeb02fe0c46180f768de9effe84a1
+Size: 18712
+
+Package: nsnake
+Architecture: arm
+Installed-Size: 388
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.0.1-1
+Homepage: https://github.com/alexdantas/nSnake
+Depends: ncurses
+Description: The classic snake game with textual interface
+Filename: arm/nsnake_3.0.1-1_arm.deb
+SHA1: 0cf3cc4161b8462b965a64ad583be8e89c4b6860
+SHA256: 5242841deb731ebe714d3cf995b47ff3170fb49dc89fcb711070f17d047a2afa
+Size: 72870
+
+Package: nudoku
+Architecture: arm
+Installed-Size: 72
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.0.0-1
+Homepage: http://jubalh.github.io/nudoku/
+Depends: ncurses
+Description: ncurses based sudoku game
+Filename: arm/nudoku_2.0.0-1_arm.deb
+SHA1: 553ff847e9b96942dda5af991b3b68998f7a701c
+SHA256: 03d1f70f3a4daf695bcc4883435cea27dc88c7826502dae64fb0085775d37292
+Size: 10534
+
+Package: open-adventure
+Architecture: arm
+Installed-Size: 196
+Maintainer: Henrik Grimler @Grimler91
+Version: 1.8-1
+Homepage: http://www.catb.org/~esr/open-adventure/
+Depends: libedit
+Description: Forward-port of the original Colossal Cave Adventure from 1976-77 which was the origin of all later text adventures, dungeon-crawl (computer) games, and computer-hosted roleplaying games
+Filename: arm/open-adventure_1.8-1_arm.deb
+SHA1: 9c6c5d628591567e39b1e6e59acf8df17dd31b0c
+SHA256: 952ba6cbd6c12f246588cd38d8677535bb14170eb4fadcdd0a5686e82cc97339
+Size: 46268
+
+Package: pacman4console
+Architecture: arm
+Installed-Size: 144
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.3-1
+Homepage: https://sites.google.com/site/doctormike/pacman.html
+Depends: ncurses
+Description: A 9 level ncurses pacman game with editor
+Filename: arm/pacman4console_1.3-1_arm.deb
+SHA1: ff484790e9041e5ccbabcbd51b8f3dd29756501f
+SHA256: 1b575f8e14696239e3d26137da23470a07d561ecd6f1862f699f53a2242243a6
+Size: 14562
+
+Package: tty-solitaire
+Architecture: arm
+Installed-Size: 60
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.1.1-1
+Homepage: https://github.com/mpereira/tty-solitaire
+Depends: ncurses
+Description: Klondike solitaire game
+Filename: arm/tty-solitaire_1.1.1-1_arm.deb
+SHA1: 023194504119de99900bda77f24bba7382fcc080
+SHA256: 597b16c95561e6e364f6f2204c99fd6232ccae1472c04177f8a070c836ce297d
+Size: 9990
+
+Package: vitetris
+Architecture: arm
+Installed-Size: 140
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.58.0-1
+Homepage: http://victornils.net/tetris/
+Depends: ncurses
+Description: Virtual terminal *tris clone
+Filename: arm/vitetris_0.58.0-1_arm.deb
+SHA1: 8aaca77e70984c31666fe87ecc474580103a213f
+SHA256: c95d75b778b13fe40eca814f69c3f11ec6cb7814e57475d675ad01b5d42c6677
+Size: 44662
+
