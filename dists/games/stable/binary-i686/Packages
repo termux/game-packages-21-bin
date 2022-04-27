@@ -7,9 +7,11 @@ Homepage: http://rephial.org/
 Depends: ncurses
 Description: Dungeon exploration adventure game
 Filename: i686/angband_4.2.0-1_i686.deb
+Size: 20145108
+MD5Sum: 591e7415d45c42297b00b389dcb721e3
 SHA1: e9b859255883788f86de58510b348008a52186e3
 SHA256: 20cedcc4a09f5333e8c264079dd50250b3f43f315d24397b42638d674850ab3c
-Size: 20145108
+SHA512: cb1c6b7a8ff62dc371beb80430a55526721449dfcc3b33422069bb10fed6527bcad411c09d845a7734da915b3a5137644d036029bbf3f0a7c47036dd8d8271a7
 
 Package: bastet
 Architecture: i686
@@ -20,9 +22,11 @@ Homepage: http://fph.altervista.org/prog/bastet.html
 Depends: boost, ncurses
 Description: Tetris clone with 'bastard' block-choosing AI
 Filename: i686/bastet_0.43.2-2_i686.deb
+Size: 68076
+MD5Sum: c54c51f4763bf27dd998cdcfd7354992
 SHA1: ec3c9252c8c95e280f8c81265a8c4fa824dee531
 SHA256: b67f8e9e80c6cc7fc21eb3d451b354739f2de2e30e6e3422a8ef2082e4a6e7f3
-Size: 68076
+SHA512: 3b79f221d45dd4fbefd14b9b341f0695fd05ebfa771cc33791d6d1ae57954ad661a445dabc505884a788b681cd65f759840938651495e783490859cd63a2360a
 
 Package: bastet
 Architecture: i686
@@ -33,9 +37,11 @@ Homepage: http://fph.altervista.org/prog/bastet.html
 Depends: boost, ncurses
 Description: Tetris clone with 'bastard' block-choosing AI
 Filename: i686/bastet_0.43.2-3_i686.deb
+Size: 68096
+MD5Sum: 9357fdba1b20cf9aaee92828c3e825e4
 SHA1: f671b00b1f687bfa3cd8727061733fd253e675f8
 SHA256: ccde1a214ab46cdc19ccbe8eb170714304a34d49dd46e31a53dabdecb4ce5e52
-Size: 68096
+SHA512: dd7f96d670cfedaa7cbdac3b1ef228adbfc0442b6a5661e037e603265e1d1d925a96828e08d121d0f88389333ff9e1ac6a7b5216a059c72ef382831eab55beec
 
 Package: brogue
 Architecture: i686
@@ -46,9 +52,11 @@ Homepage: https://sites.google.com/site/broguegame/
 Depends: ncurses
 Description: Roguelike dungeon crawling game
 Filename: i686/brogue_1.7.5-1_i686.deb
+Size: 224416
+MD5Sum: b93df801a3b267d2c79b463239bb776b
 SHA1: 52a5f6091daac52c4b36f97ad35b58fc9811c574
 SHA256: 0515674394afc0c9d042168dad7bdfe91c09c97deb2c199477aacb9a041d861b
-Size: 224416
+SHA512: 00a2ba05d9a16a35ec89d251d2d3ed9aafa85207214fbb232d9dcab92e15970061457094a57b09819efcd2f1d3583c2d7bfa5fdda5538fd9216f854447b2b26f
 
 Package: cavez-of-phear
 Architecture: i686
@@ -59,9 +67,11 @@ Homepage: https://github.com/haakonnessjoen/Cavez-of-Phear-packaging
 Depends: ncurses
 Description: A Boulder Dash like game for consoles/terminals
 Filename: i686/cavez-of-phear_0.5.1-1_i686.deb
+Size: 13290
+MD5Sum: 57e81f8f545f46080bd1cf066626d557
 SHA1: da8aecbbe1bf13dd3044582ad935a82451765eb5
 SHA256: c9b538f634f8635f4a33b99d51512f617d94f36536849d4f38a99cd70ea4efb8
-Size: 13290
+SHA512: 9fb0e274213c6d8daca11aaa742b901ce1987d90771970df65afcb965f464624f9c0ca5542b3044d1ca51e8a48f0b1cee8bb8a465384e3a28f23a24ff1489491
 
 Package: curseofwar
 Architecture: i686
@@ -72,9 +82,11 @@ Homepage: http://a-nikolaev.github.io/curseofwar/
 Depends: ncurses
 Description: Fast-paced action strategy game focusing on high-level strategic planning
 Filename: i686/curseofwar_1.2.0-4_i686.deb
+Size: 23584
+MD5Sum: 9e195b183b32b7b58dea8b3d7c68afd1
 SHA1: 23643f32c72dd37edd1b1b232c328a3ed9ec3686
 SHA256: 13256f478d090ba2a7a0df53d123f30ad6fe436fe77a6e02abfba8a2f00a3444
-Size: 23584
+SHA512: 19e4ed90c3165df1e93c97f7f0087d35792d85da30ebf18d20d82241b079d53ac2213245e0c0cc22ed421f81d66b7bd9784e6fa68a54ad3ba81ea825cb7e171f
 
 Package: dopewars
 Architecture: i686
@@ -85,9 +97,11 @@ Homepage: https://dopewars.sourceforge.io
 Depends: ncurses, glib, pcre
 Description: Drug-dealing game set in streets of New York City
 Filename: i686/dopewars_1.5.12-1_i686.deb
+Size: 248642
+MD5Sum: 417f337ce7561afff92212ae9fda1f1b
 SHA1: 50cdf9660f90806828a9a8c6da2d6d8e973417d6
 SHA256: 738bad424916668e614e2b7f678a96d469dfca2bcd2870a1a1df18112a90cdbd
-Size: 248642
+SHA512: 90b3be2c620ba122011252d373b3e145e218daad7dcf51eec198cec1e0183410e8f233db163cad7c5be17d3f808ce79895c62834bde09130a6c9fa88bec0202d
 
 Package: frotz
 Architecture: i686
@@ -98,9 +112,11 @@ Homepage: https://github.com/DavidGriffith/frotz
 Depends: ncurses, dialog, curl
 Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
 Filename: i686/frotz_2.44-4_i686.deb
+Size: 42638
+MD5Sum: ec3af0c7642e0c43fa0d354349deabdf
 SHA1: 906ff6544d17d24ccc60aea29128bcbf14c18ee9
 SHA256: e402c2546ce3eb2f5adc708618d27d2a70ca7ff2f144069bda7622fca3c11dd8
-Size: 42638
+SHA512: d7180f1e352b8f54df6da521229784753070a113ebecd6ff1fc37813b369cae131a2e6f91712360b4e75d72d7bc315b09e91786e767bcff432a5c6fe6403193d
 
 Package: glulxe
 Architecture: i686
@@ -111,9 +127,11 @@ Homepage: https://www.eblong.com/zarf/glulx/
 Depends: ncurses
 Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
 Filename: i686/glulxe_0.5.4-2_i686.deb
+Size: 75984
+MD5Sum: 1129c46cbf09d9a105d27414974efc6b
 SHA1: 8effbec7321518d6ffd52c5585ed6478d33af5d7
 SHA256: df43f1fd3d1e5be78be545e05a4da74dd708b62bd6e24d5893a30e4afbf49bd3
-Size: 75984
+SHA512: 0618804d2625dffd5ebb1b44c7ef4f3d9ffca9f55f1e78150f2bf936a787af13920be59e2ed47743d6a2c999865cef0a7f9bd570a09f7a74638eca5ea9d3df9e
 
 Package: gnugo
 Architecture: i686
@@ -124,9 +142,11 @@ Homepage: https://www.gnu.org/software/gnugo/
 Depends: ncurses, readline
 Description: Program that plays the game of Go
 Filename: i686/gnugo_3.8-2_i686.deb
+Size: 854796
+MD5Sum: 86cf59c4095882df1daebd36d7ad0e52
 SHA1: aedce0b76b495bd0746c975f14f8b1cf826545e2
 SHA256: 2a705dd88bf889e5c56142b33ba15e6be8482820708434bde59cea1ab79e43be
-Size: 854796
+SHA512: 71d20943ace669ff6e60f7df3e3f6a21d9889cb66264ba1a1aad2e314f108233b09fdece966ecb4e2c1cd1284b40be5241c868722940d4d178c9d7180aff6a95
 
 Package: gnushogi
 Architecture: i686
@@ -137,9 +157,11 @@ Homepage: https://www.gnu.org/software/gnushogi/
 Depends: ncurses
 Description: Program that plays the game of Shogi, also known as Japanese Chess
 Filename: i686/gnushogi_1.4.2-2_i686.deb
+Size: 58910
+MD5Sum: 040154c8e48aad44c6fcd5806668b479
 SHA1: 1e017f2b4c1baf0a4971a35c299c1af98e8a0c02
 SHA256: 94d8915771221717ff3ae3e47204f89ddb642cbd06cb2bbd5672e870672bffdd
-Size: 58910
+SHA512: 57af08fe5d9fb0379b08bab331728cc135cb106e74d6981811c4886ee0c3760cf549861efc48a40856ad21e51bf4601542f992fc1c2393c85b1c7bf026f6106f
 
 Package: greed
 Architecture: i686
@@ -150,9 +172,11 @@ Homepage: http://www.catb.org/~esr/greed/
 Depends: ncurses
 Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
 Filename: i686/greed_4.2-2_i686.deb
+Size: 8768
+MD5Sum: abb15ec56684d4bc6c32fb0ff45eb88f
 SHA1: 136486e3aca15cbdc62e82e73d587c3f98e92814
 SHA256: 644ff835c260861ded054e82f83b70e3618268ee18cc5df2b2e73a52834d1314
-Size: 8768
+SHA512: 384b998288d5363a2995e090b9ba0d94dac21140dad2fbbf73da38618c007cf110be4192cd719d5a376a9ec6d5da6fafde47bb313f40b77070ed2653390b3796
 
 Package: moon-buggy
 Architecture: i686
@@ -163,9 +187,11 @@ Homepage: https://github.com/seehuhn/moon-buggy
 Depends: ncurses
 Description: Simple game where you drive a car across the moon's surface
 Filename: i686/moon-buggy_1.0.51-3_i686.deb
+Size: 28064
+MD5Sum: 25dd5af59e44cbef8283c06c81ed9207
 SHA1: 670b736ecf43d998792c3bc6479081f81957568c
 SHA256: f1be3214a40e228a577a4b110f929bee9d34615a5032dedc15e17a7e47c2d8ba
-Size: 28064
+SHA512: 39d828ec626d1dbbd0075371dd4458715a0a3cee516675eb63c6a10cb121f3e7a74c19cd46179f8d258199ca3a864900e857842c282a956ef4f1289282aadf11
 
 Package: moria
 Architecture: i686
@@ -176,9 +202,11 @@ Homepage: https://umoria.org
 Depends: ncurses
 Description: Rogue-like game with an infinite dungeon
 Filename: i686/moria_5.7.10-1_i686.deb
+Size: 199626
+MD5Sum: 482793873b7e3aaaeefab313fda3e7fc
 SHA1: ae4a65da9db0d09cb7bd110f5e78bc183b704b45
 SHA256: 605d5fde24b712aa058dd6d7a27cda0bfe6e9ce59661c4c642b37840f2df5fc8
-Size: 199626
+SHA512: cda8066defd5b8dbb139a603e04e58373ae3c2a5e08438d186dc617cc21f72563d5ad2a50a793b6a8d1ac66e349502a74f05e0bd91a4ee68714be7d29a223458
 
 Package: nethack
 Architecture: i686
@@ -189,9 +217,11 @@ Homepage: http://www.nethack.org/
 Depends: ncurses
 Description: Dungeon crawl game
 Filename: i686/nethack_3.6.2-2_i686.deb
+Size: 2600848
+MD5Sum: 57c4edcf36f8969f05ac17167ae94580
 SHA1: e73ef91a1da2b40fffa5949a61024cd22b869304
 SHA256: ecb21269e1ea720c08a75459780c4d7fcadcd3615ba5c47f6db5277a20cd0802
-Size: 2600848
+SHA512: 988035b03ee58b2d25197cb98594d764178523c11479cfc9388d67438fffaf71ead323a15fbd3f56d00023fbadd82dbbeeefea1f13504f3f63b97e5c7f224a81
 
 Package: ninvaders
 Architecture: i686
@@ -202,9 +232,11 @@ Homepage: http://ninvaders.sourceforge.net
 Depends: ncurses
 Description: Space Invaders clone based on ncurses for ASCII output
 Filename: i686/ninvaders_0.1.1-1_i686.deb
+Size: 16524
+MD5Sum: ba65cbd4bcf4d48df741d2f84d68383f
 SHA1: 8e140993800177a5039f6bd1f538749d378d0fb3
 SHA256: 9ee1256dcac357c17550309552adab1ed11f43e1422639c81c7ea769896113e9
-Size: 16524
+SHA512: 38394c93cf586f7f5e60c7a16eb943a7eeef824d5a1c447d45c2d5c843ad3e4ede32f0f558fa764fe9ce7c6f35c69916fc3ae0f811dace59280a90598436fa01
 
 Package: nsnake
 Architecture: i686
@@ -215,9 +247,11 @@ Homepage: https://github.com/alexdantas/nSnake
 Depends: ncurses
 Description: The classic snake game with textual interface
 Filename: i686/nsnake_3.0.1-1_i686.deb
+Size: 89774
+MD5Sum: 4ae32abd38f5afce38bed88bc4771fde
 SHA1: 4d26bd93568d1acd4f9bf126301e80fef75f11c2
 SHA256: d0b72fc9973e704bd8f6c84c38e680adb25a9aa765971c8f4f473da0d9ed7006
-Size: 89774
+SHA512: ec6c3691fa90ccbc31746bcf590f735d6b5ce45c82d08353faaf91b6ff1e23500743c22fd5bcc061da83376ce4a57e491942541f05d41f1148fbbd972dcd90ac
 
 Package: nudoku
 Architecture: i686
@@ -228,9 +262,11 @@ Homepage: http://jubalh.github.io/nudoku/
 Depends: ncurses
 Description: ncurses based sudoku game
 Filename: i686/nudoku_2.0.0-1_i686.deb
+Size: 8024
+MD5Sum: 3abadc2e0f2db59022c33022ffbc2cf1
 SHA1: 78e3ec1efea741135c121612904fec7acfe70014
 SHA256: 12fcac6d503c9f008c2927af3ca0534b6ef6bc6336a32218b8dd96147a338158
-Size: 8024
+SHA512: 27ee6477de87bb5ccf0ce5eb57b574a90b385bf258725131f15ebc7953476fbca4328796f18c7bacefe10ae002887c57741175afa30cee6cd87d82b19fe805d9
 
 Package: open-adventure
 Architecture: i686
@@ -241,9 +277,11 @@ Homepage: http://www.catb.org/~esr/open-adventure/
 Depends: libedit
 Description: Forward-port of the original Colossal Cave Adventure from 1976-77 which was the origin of all later text adventures, dungeon-crawl (computer) games, and computer-hosted roleplaying games
 Filename: i686/open-adventure_1.8-1_i686.deb
+Size: 44978
+MD5Sum: 5747a85b1193040064abe4160e783475
 SHA1: ece1551f63138343d2957b553b157ddfbe4a2af2
 SHA256: d839213f25261dbf1eafe5ca37f75c592677e7eb9899c416cf850da42f97c43c
-Size: 44978
+SHA512: 5d34793275ee0a74f675ac89cb24032fe951a3d0d87a2c97c513720d11b09b54cc995faf83f8b8c5e1df77dd8c85ceab3dc9042c9f6f51b157ee9402cf1da243
 
 Package: pacman4console
 Architecture: i686
@@ -254,9 +292,11 @@ Homepage: https://sites.google.com/site/doctormike/pacman.html
 Depends: ncurses
 Description: A 9 level ncurses pacman game with editor
 Filename: i686/pacman4console_1.3-1_i686.deb
+Size: 11768
+MD5Sum: f4de2cbe0f822311307eb67ba7907142
 SHA1: 195bebd2a0770c669600d6f5e4410ec195df7e0c
 SHA256: 5ce78a47a3d521bd6589058f17baf330790d6bc64c7b59f439fb6c2c381a9246
-Size: 11768
+SHA512: c079367fbf566ee4e2dac6904c9306092715dd73aeb89bd48cf32134b5fd993a42303b11ad44ccd029d532a462df496532a2a0502942babb7b6e134647fda658
 
 Package: tty-solitaire
 Architecture: i686
@@ -267,9 +307,11 @@ Homepage: https://github.com/mpereira/tty-solitaire
 Depends: ncurses
 Description: Klondike solitaire game
 Filename: i686/tty-solitaire_1.1.1-1_i686.deb
+Size: 7744
+MD5Sum: 7227a13d0b90c7b6297d45452e18aafc
 SHA1: d535ee2a80e9e94a98c905e53275285bcc8acbb5
 SHA256: 4f414714c03467fa49e9067b6598dfb004e32fa94b71f266b7d6be8c8124c399
-Size: 7744
+SHA512: 318953852feab67908234ed39722cba9f239583e3b6c977d450c40e32b1d5e85ebf2f249ac83a81c3eb493ef8b29faa8d710de1f4b158dc8bea4b43f85992886
 
 Package: vitetris
 Architecture: i686
@@ -280,7 +322,9 @@ Homepage: http://victornils.net/tetris/
 Depends: ncurses
 Description: Virtual terminal *tris clone
 Filename: i686/vitetris_0.58.0-1_i686.deb
+Size: 44962
+MD5Sum: 3147660265c4a1b3923794774a549508
 SHA1: 72399870d7af0db85b471eba655f8c33c4051447
 SHA256: 53a03642d2781086858c3cebd8cbfb83f301eff1a06d9a732a1f7a3d085cfaa1
-Size: 44962
+SHA512: 9974db7ab959b08eb722511da78726871ab643111b2169578edb1973e4bcb241f3cbf41e5947945c4831c50b5c3b985fa90acc93e2019ffe9e9e9b77f9906a93
 

@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: Bintray
 Label: Bintray
 Suite: games
@@ -73,3 +76,14 @@ SHA512:
  3853321df9ba4040b5e7ef51ed3e70b4033c54fac0b15b6a8579f8fc715e8da9ac254cd3278207c98e6fef292f59cc120c7095eb1ec019be1ad4343f6ee45d57 2148 stable/Contents-x86_64.xz
  3853321df9ba4040b5e7ef51ed3e70b4033c54fac0b15b6a8579f8fc715e8da9ac254cd3278207c98e6fef292f59cc120c7095eb1ec019be1ad4343f6ee45d57 2148 stable/Contents-aarch64.xz
  d14b2c460bd2aee2d879dcdb989b1cf1255aa7c8bd086fd5ad0b10c41b837fb934c9f32368df364035e6ab980e54584ebfb432c72290d6221294385be969fb5d 24347 stable/Contents-aarch64
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEELH8prpeJH2QZqeLNsAduSQtxYWsFAmJpomYACgkQsAduSQtx
+YWuPKQf+NeL33jsTWE+btwXQAlf3IjL+itGnkB0lmHzs+9TiZen9enqSc8bECtdK
+V4NX1pw0UPv+/7n2QTw3W89ud2db902D5a0sFUY3jSemJNr2e4Lt/bR6Kefw69v2
+NxVLbOS3VCmlAPumkTuUaucv+NZecpq3jn/xsc6XhLQ63V2lDwAjd+hsb/fDhwDU
+nmNf84acttklkZ4bT/QQUMpnpqm5ykNlUHdTpUne6jfFKxaCq60TGu/17Dwz4kD2
+jjtsT4ckXUMX0p5hs9yvsH2+4iTLq3GBuDuOk3GdXwp4s906pu1YMxOut99DyMyc
+zpAHC5y+LRZL6JRQkjZEovz5qKX6wQ==
+=WUE2
+-----END PGP SIGNATURE-----

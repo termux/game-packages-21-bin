@@ -7,9 +7,11 @@ Homepage: http://rephial.org/
 Depends: ncurses
 Description: Dungeon exploration adventure game
 Filename: arm/angband_4.2.0-1_arm.deb
+Size: 20104482
+MD5Sum: f325c08c980df558cf0203f5e2b735e1
 SHA1: 7a0d7b9ce4b91576eb0a1a6a7781cc746201af68
 SHA256: 4e5b7a9cfb414ffa7dba29f279ebc4d8ee19c36a9e9c160ff3d016c86933a9ed
-Size: 20104482
+SHA512: 9c7e429045201cdceeeb36322330a44c1749eaf847a9b10895ec4eed1b87ebfc09c8b5d8df0f0b88d332f897d74db3494e4bf7c651b08dc84d816c181c7fe0f7
 
 Package: bastet
 Architecture: arm
@@ -20,9 +22,11 @@ Homepage: http://fph.altervista.org/prog/bastet.html
 Depends: boost, ncurses
 Description: Tetris clone with 'bastard' block-choosing AI
 Filename: arm/bastet_0.43.2-2_arm.deb
+Size: 57550
+MD5Sum: a78aaafa29c383d796999bb8acb2511d
 SHA1: 10da8817ac82ffd81a79ed2f9a3c85c537832a3f
 SHA256: edbe94fb44331ab168257f37d57a68d1a64021d30b5a7fd026afc97534efc117
-Size: 57550
+SHA512: 4a8ce099372f447adf8d6a72476ba9b79b1e46b0eedefea2d5cc4e9dd87351b8ff9463cac50ea0919994e339860b7d6d409c2c5d7060d51b203e59d01d14ece3
 
 Package: bastet
 Architecture: arm
@@ -33,9 +37,11 @@ Homepage: http://fph.altervista.org/prog/bastet.html
 Depends: boost, ncurses
 Description: Tetris clone with 'bastard' block-choosing AI
 Filename: arm/bastet_0.43.2-3_arm.deb
+Size: 57542
+MD5Sum: e75cbd71b72bc15f9ce2784dcf24b296
 SHA1: 4261e13c054b2a5e8e661fb4a1f996d3035a79df
 SHA256: 79d92f2db687ec39cd418fc8a31edbe63533794075bbdb746af10c42f2160df8
-Size: 57542
+SHA512: 5f5030ecace2b504d5d9e8614a4730b4aad7babf92662a85677e965212433c74173e0fe8862ad91febef991b391d86366c19b3a8a3884bbe7472fb46dd94e254
 
 Package: brogue
 Architecture: arm
@@ -46,9 +52,11 @@ Homepage: https://sites.google.com/site/broguegame/
 Depends: ncurses
 Description: Roguelike dungeon crawling game
 Filename: arm/brogue_1.7.5-1_arm.deb
+Size: 225358
+MD5Sum: baa12a4cb6cabdaa92cfcbdd40236139
 SHA1: 603639c2ad1fc8ca1b4acd0bebf783561d55d8cb
 SHA256: d39ee5d8a81c99aa48abd805482be1cdf276faeb6ca167d20c0c763ee8082606
-Size: 225358
+SHA512: 4ecf958b0646db36b6c8a60b0a6a607bdbce815f22fb47a871727dbcd567de9c7444e09150a9d17698d13fb7ce0d308c303e19b3fce1c06330919b1e45421755
 
 Package: cavez-of-phear
 Architecture: arm
@@ -59,9 +67,11 @@ Homepage: https://github.com/haakonnessjoen/Cavez-of-Phear-packaging
 Depends: ncurses
 Description: A Boulder Dash like game for consoles/terminals
 Filename: arm/cavez-of-phear_0.5.1-1_arm.deb
+Size: 15958
+MD5Sum: 22bbaa1ea9bac60dd690d12e79916299
 SHA1: c786a698f0d8ed5319350c2d922d8250daea37a1
 SHA256: dd74bcf6b32e73e88475b89b873d973032fc376ae09aea8fce10cf7aff3c5da1
-Size: 15958
+SHA512: efa3aba2bb8381c9afaf1022c82ebc43896ffbe3937ae6c7f3c2d0c00e426ecff10dedb18620e4f912ada8658400f81a621d831b23ac56ea99faf8f5d4bb2904
 
 Package: curseofwar
 Architecture: arm
@@ -72,9 +82,11 @@ Homepage: http://a-nikolaev.github.io/curseofwar/
 Depends: ncurses
 Description: Fast-paced action strategy game focusing on high-level strategic planning
 Filename: arm/curseofwar_1.2.0-4_arm.deb
+Size: 22396
+MD5Sum: 3d8e64528619cbcdde3eca3076b449cb
 SHA1: 2d6786ae7319fc69330798de3a4e8ce574f20245
 SHA256: 2c0f42f065e8b583eb53b3ef138f1ee2d41bec3c44aa3844364d6fffb1ac1965
-Size: 22396
+SHA512: be11501f8ad2c5a6d41e0f530b800644cae905305bc12fde585bf916a726a03db49487d372d6886f02fc5e6ac202be5eaf58df0dc03ee4d72cd73d9c54140041
 
 Package: dopewars
 Architecture: arm
@@ -85,9 +97,11 @@ Homepage: https://dopewars.sourceforge.io
 Depends: ncurses, glib, pcre
 Description: Drug-dealing game set in streets of New York City
 Filename: arm/dopewars_1.5.12-1_arm.deb
+Size: 248618
+MD5Sum: 0c1432744a208594188c5506a2faf6a5
 SHA1: 010ce12c465d21288f32efd951e1492b3d9c5d30
 SHA256: 3a437a96a006ac8332986813f319ceb27a9a880c0e256dd0dac7594f510e04e5
-Size: 248618
+SHA512: fd5a1fb052fe696eed697d338b79058ff34300fb9ec04a2f0fab6d9b9dcbd9b6444f579e628bc1e336126468e51510d516603bd6361d4b47392f549bb947bf0b
 
 Package: frotz
 Architecture: arm
@@ -98,9 +112,11 @@ Homepage: https://github.com/DavidGriffith/frotz
 Depends: ncurses, dialog, curl
 Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
 Filename: arm/frotz_2.44-4_arm.deb
+Size: 44880
+MD5Sum: 23d0110da1ff4b574f26cf1027f2ee81
 SHA1: ac8141341ee28b8148eb3fb13eaa654d9c2fa35a
 SHA256: faa93f60de962b681b55498dd7dc68cad3b871ae1d3030b840b80141935e333d
-Size: 44880
+SHA512: de9d7dcc239318771ea0e8f1f5c3e74a03fbb2560f2facfff2cbfc3e24d4390f82ee1bf68a6eef9ea11b819ebe1cb4dabbfa5b1f793dd0ef132af5ff1cfc7b68
 
 Package: glulxe
 Architecture: arm
@@ -111,9 +127,11 @@ Homepage: https://www.eblong.com/zarf/glulx/
 Depends: ncurses
 Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
 Filename: arm/glulxe_0.5.4-2_arm.deb
+Size: 71518
+MD5Sum: 625d76ba42f7176e2085d88efa2e861a
 SHA1: 16db276936a16df4bc166562de28fbf1ab1ee28b
 SHA256: aab5b30283d932f74434b5df8e02872a0f5661c8ec1dd1576b0d540793dba1a1
-Size: 71518
+SHA512: 71c106ac2f6adfddf584db4e9d6d101f51472a48fb53b18318387dd59e12c258125a3b9952861a6eb34bb18e3bd99425c74e028a20d6de85fb7dfd5cf6499c60
 
 Package: gnugo
 Architecture: arm
@@ -124,9 +142,11 @@ Homepage: https://www.gnu.org/software/gnugo/
 Depends: ncurses, readline
 Description: Program that plays the game of Go
 Filename: arm/gnugo_3.8-2_arm.deb
+Size: 859142
+MD5Sum: b530baff220003d4c95bd87740d31a20
 SHA1: 2d5aab184cbf54c8a21fd71ebf4c843f482c8c82
 SHA256: ffab4b7a42ad3e7fb84128dfd0bdcae4eaea17b44b86b8b00bd9508acfd676bb
-Size: 859142
+SHA512: d40575006fb64ecd8e2441a965b77d661573709bc4d109177ef9248168d676a36f4e7863654db8f02a0fc8e2ba56b267003d33b2089eadfd6e815d6ddf4b8746
 
 Package: gnushogi
 Architecture: arm
@@ -137,9 +157,11 @@ Homepage: https://www.gnu.org/software/gnushogi/
 Depends: ncurses
 Description: Program that plays the game of Shogi, also known as Japanese Chess
 Filename: arm/gnushogi_1.4.2-2_arm.deb
+Size: 63136
+MD5Sum: 0ec9b327134047ae06a8bef097ef96dc
 SHA1: 07177615d09a4337e7c78c4ca4026dae2fac40e7
 SHA256: eb141d68a59567bb0b3252eeafc8ee5d9e2ee1d8830ce26b07a6a17e49b94d8f
-Size: 63136
+SHA512: abd8e03fa1b4975071094d90399c31fd9a8ac3fa3d50c943f9804e7ad58088706c60af6cee1fce364e72cea18dab33fdaa2fb9d8427ce7e6a179e0fdb7107510
 
 Package: greed
 Architecture: arm
@@ -150,9 +172,11 @@ Homepage: http://www.catb.org/~esr/greed/
 Depends: ncurses
 Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
 Filename: arm/greed_4.2-2_arm.deb
+Size: 11260
+MD5Sum: d4995dec4a8177ccd19a42959e943804
 SHA1: 3e455ff6d05313f9bce7ad9e805ad94037626056
 SHA256: 16ffe6951e2453a0af549ddd4f259296bd9b776428c01f7f8aee33472407da29
-Size: 11260
+SHA512: fca1e25dde2df18b24ff676fe772c3ae85d0e65bfaf52559ba7b0b550bdbbf2bfe3fce177ecbfaac4bf88d8798a7739568fa64680133f986de895f7a7ca8cf5f
 
 Package: moon-buggy
 Architecture: arm
@@ -163,9 +187,11 @@ Homepage: https://github.com/seehuhn/moon-buggy
 Depends: ncurses
 Description: Simple game where you drive a car across the moon's surface
 Filename: arm/moon-buggy_1.0.51-3_arm.deb
+Size: 30372
+MD5Sum: d566edcdb2677be70efdae885897c50b
 SHA1: 15f0824a100f190773106745368eee1ed3bbf618
 SHA256: 7ceb33557c222e338f74bd29a3a93c5e0a36e49ebdd2a57e08946a86b1adcf6e
-Size: 30372
+SHA512: f92606db7c12d365c7d0dd98338e9952b1708eaca970725d00d8897914588bec32d59391f4a8834da3f71f2991f5d8577db1b80e919e33975cdcc4c828c17274
 
 Package: moria
 Architecture: arm
@@ -176,9 +202,11 @@ Homepage: https://umoria.org
 Depends: ncurses
 Description: Rogue-like game with an infinite dungeon
 Filename: arm/moria_5.7.10-1_arm.deb
+Size: 185780
+MD5Sum: 7989d5145900a817784cd854f114a730
 SHA1: 125c42b6778f82bca25469931c64338bdd48b853
 SHA256: 7e794a0f7cded2474525c46e7d99fe3c4a2fe2b5e304a3a278dd3ebde387a4e7
-Size: 185780
+SHA512: aed629e6baa1f65e22defd2015bab8c2121e0ab71d8e5abd4d66ea1e685af8e9de6f4d00625711393f07ae364a1f8a16b4ebd4c6a765b1045359b1afbea4eaf5
 
 Package: nethack
 Architecture: arm
@@ -189,9 +217,11 @@ Homepage: http://www.nethack.org/
 Depends: ncurses
 Description: Dungeon crawl game
 Filename: arm/nethack_3.6.2-2_arm.deb
+Size: 2591572
+MD5Sum: cf9bf94cb2c4e2dca5b69a5446724bdc
 SHA1: b9ab77b16c69ff1d813cfbdcfeef9e8d151c1a0c
 SHA256: d0eb53c663cb16dcd7f4ffcade6bc462775588e85cb7fb23d351bb6e053803f0
-Size: 2591572
+SHA512: 0126ae77b6f5a4ad0a9fd7c25fe1c891122a9566445fa05278593ffe55f1587733202dd2cab3367a984be642382c5f006861bacb9ae4d6939947a56df074b589
 
 Package: ninvaders
 Architecture: arm
@@ -202,9 +232,11 @@ Homepage: http://ninvaders.sourceforge.net
 Depends: ncurses
 Description: Space Invaders clone based on ncurses for ASCII output
 Filename: arm/ninvaders_0.1.1-1_arm.deb
+Size: 18712
+MD5Sum: 7ca44bad774be7bd30b580defb35f581
 SHA1: 663a68cfecfc73236676c9cae7cf12290c02c662
 SHA256: 20c4e0c387a91ce21d10e78f948c6d681ccbeb02fe0c46180f768de9effe84a1
-Size: 18712
+SHA512: b8fac5029f5cf76066b1ce165047994b850c66ffab69e7afadb47108eeaf5062580603f0506308ce299a2d9094c6877fa56a60d5f1cbe83c48caf5d981d68867
 
 Package: nsnake
 Architecture: arm
@@ -215,9 +247,11 @@ Homepage: https://github.com/alexdantas/nSnake
 Depends: ncurses
 Description: The classic snake game with textual interface
 Filename: arm/nsnake_3.0.1-1_arm.deb
+Size: 72870
+MD5Sum: 3f3529b013644b5bd748d75bb41c874d
 SHA1: 0cf3cc4161b8462b965a64ad583be8e89c4b6860
 SHA256: 5242841deb731ebe714d3cf995b47ff3170fb49dc89fcb711070f17d047a2afa
-Size: 72870
+SHA512: 868af3aff29dcafff9ca7bcee338ed998ff0d0bce3a76b787f795a4df8b7c3323952d42aeb3046b28a6f80350ac36e25ba856b8b36d1af53304df23c10390b10
 
 Package: nudoku
 Architecture: arm
@@ -228,9 +262,11 @@ Homepage: http://jubalh.github.io/nudoku/
 Depends: ncurses
 Description: ncurses based sudoku game
 Filename: arm/nudoku_2.0.0-1_arm.deb
+Size: 10534
+MD5Sum: bf0f5837db14e9a150eea3e7fb08ca7a
 SHA1: 553ff847e9b96942dda5af991b3b68998f7a701c
 SHA256: 03d1f70f3a4daf695bcc4883435cea27dc88c7826502dae64fb0085775d37292
-Size: 10534
+SHA512: 436673d18c05b7a50afc3a1991e96b3e80a42a6dfded0b203b8b6666a3faabbf4ed6b58248307d13c04c950cd11df2ec2a3dd8a028a3505e1e2960e81cc450a7
 
 Package: open-adventure
 Architecture: arm
@@ -241,9 +277,11 @@ Homepage: http://www.catb.org/~esr/open-adventure/
 Depends: libedit
 Description: Forward-port of the original Colossal Cave Adventure from 1976-77 which was the origin of all later text adventures, dungeon-crawl (computer) games, and computer-hosted roleplaying games
 Filename: arm/open-adventure_1.8-1_arm.deb
+Size: 46268
+MD5Sum: 2a4c25641ed800d8149d5c20eeaf29da
 SHA1: 9c6c5d628591567e39b1e6e59acf8df17dd31b0c
 SHA256: 952ba6cbd6c12f246588cd38d8677535bb14170eb4fadcdd0a5686e82cc97339
-Size: 46268
+SHA512: b56452b26b26c87da872f6b5980528592c7218f28ee3de9c07363ac60f34b5f3d5c737a2772ccf25462edfadccac35ef190ed31e8a791d877b39a5dda2335608
 
 Package: pacman4console
 Architecture: arm
@@ -254,9 +292,11 @@ Homepage: https://sites.google.com/site/doctormike/pacman.html
 Depends: ncurses
 Description: A 9 level ncurses pacman game with editor
 Filename: arm/pacman4console_1.3-1_arm.deb
+Size: 14562
+MD5Sum: f54581107a3c98b5c58682128e74419e
 SHA1: ff484790e9041e5ccbabcbd51b8f3dd29756501f
 SHA256: 1b575f8e14696239e3d26137da23470a07d561ecd6f1862f699f53a2242243a6
-Size: 14562
+SHA512: ddfbc9287476ecf12caea96e11c833f931455e1b0c2e5da1e4863dc51111321a161af9f9cdb76b03059bde0b00a792a1e2ea9a6ea0f6f313801ccd9f595fa0d1
 
 Package: tty-solitaire
 Architecture: arm
@@ -267,9 +307,11 @@ Homepage: https://github.com/mpereira/tty-solitaire
 Depends: ncurses
 Description: Klondike solitaire game
 Filename: arm/tty-solitaire_1.1.1-1_arm.deb
+Size: 9990
+MD5Sum: 5ccdbf3e58db3052d2660d388a2c3f26
 SHA1: 023194504119de99900bda77f24bba7382fcc080
 SHA256: 597b16c95561e6e364f6f2204c99fd6232ccae1472c04177f8a070c836ce297d
-Size: 9990
+SHA512: 90a8d085350cc8548d19ca6e9072c088df28be79426715bb6000e5d12afe73fd884e79f3b3b19350e1d901a77b8278bb527bee29e74c84cd355f48b4b25dfdb1
 
 Package: vitetris
 Architecture: arm
@@ -280,7 +322,9 @@ Homepage: http://victornils.net/tetris/
 Depends: ncurses
 Description: Virtual terminal *tris clone
 Filename: arm/vitetris_0.58.0-1_arm.deb
+Size: 44662
+MD5Sum: a00054e1fb3e212bff16188af4d1b3be
 SHA1: 8aaca77e70984c31666fe87ecc474580103a213f
 SHA256: c95d75b778b13fe40eca814f69c3f11ec6cb7814e57475d675ad01b5d42c6677
-Size: 44662
+SHA512: 6348175ad795a277bc3b89e3c95462191e993781a8841e59b92924120e71510eb068fd932eeadc15a881e9731d6fa53cd8e44cf5c37d11cf65c2ce27eba7690a
 

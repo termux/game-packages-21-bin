@@ -7,9 +7,11 @@ Homepage: http://rephial.org/
 Depends: ncurses
 Description: Dungeon exploration adventure game
 Filename: aarch64/angband_4.2.0-1_aarch64.deb
+Size: 20150856
+MD5Sum: 10d4d53132785287a618d4ad20609540
 SHA1: 987a5b2b6dafb87a275137e7e5be02cb76cd6e3a
 SHA256: fb21abb4ad7be37f30ff6109146ec8d41731fb6b29474ea211bd37452949bace
-Size: 20150856
+SHA512: 39db8fd87a2012244c2ddff01a91753d7d507575d442d376256a8e1d064afc21de3c597f555be896c10d40a30c8b14488fcca47e3257b394fc0b47a4f476c26a
 
 Package: bastet
 Architecture: aarch64
@@ -20,9 +22,11 @@ Homepage: http://fph.altervista.org/prog/bastet.html
 Depends: boost, ncurses
 Description: Tetris clone with 'bastard' block-choosing AI
 Filename: aarch64/bastet_0.43.2-2_aarch64.deb
+Size: 58614
+MD5Sum: b0d6bb4b858d4892018e6158197825ee
 SHA1: 52f7e522fb4ea12ea3e74f75619cab82affa88cb
 SHA256: 98b70eaa65f5fd2ec25a87c520695936a722d5bc3f25b575e84b31ba9d9ecdb2
-Size: 58614
+SHA512: d675ce8aac9dd81d863621aa7f49dea7fb5990c2a03420e14eb412b217637da9e4eb83789096c6f4d9048c892aa84e97cf4f354397bda8c4c7b3eb54c1da0abc
 
 Package: bastet
 Architecture: aarch64
@@ -33,9 +37,11 @@ Homepage: http://fph.altervista.org/prog/bastet.html
 Depends: boost, ncurses
 Description: Tetris clone with 'bastard' block-choosing AI
 Filename: aarch64/bastet_0.43.2-3_aarch64.deb
+Size: 58670
+MD5Sum: ee9a7dd9cf9b6989a6091d5af371549c
 SHA1: 0fac325579568a469eed9c4a0dfd2ad6906d36be
 SHA256: bd53415a74f26fb2332a5fadaa427c097ed8dd54b772c6ccac2cbbc7ee32e826
-Size: 58670
+SHA512: e6206807e39810608018cf8c49666c03730da42bce4f3059ee1f80aeb0224f7bd30958b0b921922284ba058e02bd668de4ef63d449b50062ddd8814e2df95e75
 
 Package: brogue
 Architecture: aarch64
@@ -46,9 +52,11 @@ Homepage: https://sites.google.com/site/broguegame/
 Depends: ncurses
 Description: Roguelike dungeon crawling game
 Filename: aarch64/brogue_1.7.5-1_aarch64.deb
+Size: 211070
+MD5Sum: 31acd7e24507ab4d88919797acd8ad31
 SHA1: aaeadb157dfc19731d25c6c5a623cf9c9bf78af1
 SHA256: 40c4fa24e8f4aadae1621d9add0c18b9911166c8a7a7b9f23ec1ac98a209cfe8
-Size: 211070
+SHA512: eba3618383cabe08d6a868cf81a1bd3aba42992ecdc5c6ce807ab61687f9e4b9a8f1a8c40e2f8fefeb5726621d928d5b9496d86bca54288212b082afe3888483
 
 Package: cavez-of-phear
 Architecture: aarch64
@@ -59,9 +67,11 @@ Homepage: https://github.com/haakonnessjoen/Cavez-of-Phear-packaging
 Depends: ncurses
 Description: A Boulder Dash like game for consoles/terminals
 Filename: aarch64/cavez-of-phear_0.5.1-1_aarch64.deb
+Size: 13280
+MD5Sum: 4cb4e55d11c837213c3c6467b38309d1
 SHA1: 41813ee4dd39a5b02314d8b0bc5f01be1694f13c
 SHA256: a1d47f9a9fd522881f395b0698bd516b5e47191fb839d1877715a47685f1103e
-Size: 13280
+SHA512: d5d9e1d7380fdae0f3d64a9848f444d16c02e9e63dceaa3ec775c925e9a903bcca089925c9935aa56db67f44a8c4255115e2d2e0b12f48547a31007d19f83fe9
 
 Package: curseofwar
 Architecture: aarch64
@@ -72,9 +82,11 @@ Homepage: http://a-nikolaev.github.io/curseofwar/
 Depends: ncurses
 Description: Fast-paced action strategy game focusing on high-level strategic planning
 Filename: aarch64/curseofwar_1.2.0-4_aarch64.deb
+Size: 22774
+MD5Sum: 3fde007be7a8a329ca94ae5391c32d87
 SHA1: aba7af9ed84f5627dc1b0fe221c724ef203151b1
 SHA256: 2ac0b5fc685d62a91db9e46ded4cf006b9d87b9324d3a279f750c75b51e52145
-Size: 22774
+SHA512: 03f06ade24f555618e2e82a8a15a9e661b2e865b782540fb3eec7217e79d9ad36203fa09232ee43501d3c584a70b2af7db3ab338e8e28f4646028f1f8fd62a02
 
 Package: dopewars
 Architecture: aarch64
@@ -85,9 +97,11 @@ Homepage: https://dopewars.sourceforge.io
 Depends: ncurses, glib, pcre
 Description: Drug-dealing game set in streets of New York City
 Filename: aarch64/dopewars_1.5.12-1_aarch64.deb
+Size: 244764
+MD5Sum: 4a9ed472ab85e55c1e8dc78ea364493b
 SHA1: 49d1063112933cc7303877efb360ebb452aab0c6
 SHA256: 9ea1821e1bee0b6409c6ddf48240c2c78ef966eda272444f137bd349d4ba47ea
-Size: 244764
+SHA512: bb3d2785e602915c364f3011452dd47ccd2399a93ad8ca15ad226b2f7dd98d5389c2116b83f0134650342bc5ae906595d29438e3333c92eea84c4bb69e7898a1
 
 Package: frotz
 Architecture: aarch64
@@ -98,9 +112,11 @@ Homepage: https://github.com/DavidGriffith/frotz
 Depends: ncurses, dialog, curl
 Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
 Filename: aarch64/frotz_2.44-4_aarch64.deb
+Size: 41566
+MD5Sum: da51d96ee836a49e8ac1aa4264173892
 SHA1: 83f03c881b7fc6564cdc65126c74d1ed64607b49
 SHA256: 44675fcef5374bbda614a187bc1fdf3cb637f39dff7876694ae887b62cd92571
-Size: 41566
+SHA512: 0808900e6cb38891370ab7db9e9e86b6eb3c59035012026320fad37b696a11ba19f26ca5b71f190f5d491e6ecca91c5d40ea061f0aef8c370b5281e48442641b
 
 Package: glulxe
 Architecture: aarch64
@@ -111,9 +127,11 @@ Homepage: https://www.eblong.com/zarf/glulx/
 Depends: ncurses
 Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
 Filename: aarch64/glulxe_0.5.4-2_aarch64.deb
+Size: 70408
+MD5Sum: 8d254fc01ce5f1c6309039aa032ba0ae
 SHA1: 85bfaf7bf33402db0dd91b2d7a6811781ab05905
 SHA256: 9c8cd5be4790bade4f328f3a42d78f9f0c55c12c0c59fa293a9b7fb593b8c3ef
-Size: 70408
+SHA512: 647177e376e24a40608238686179be36786ee992f7336bce5ef00a6206b0b468ae0cb240cb23d25ea29127975a9aa48cde010bc2fb497cc0fd0ca36612834e91
 
 Package: gnugo
 Architecture: aarch64
@@ -124,9 +142,11 @@ Homepage: https://www.gnu.org/software/gnugo/
 Depends: ncurses, readline
 Description: Program that plays the game of Go
 Filename: aarch64/gnugo_3.8-2_aarch64.deb
+Size: 1010942
+MD5Sum: 336f12e72a88c9fa641b5b0825140c05
 SHA1: 350330485aa8531dbe9606d98fdbfaa704856ce4
 SHA256: 07d9029213463e165e5fcd15977f26a04e1a6f7f41530796695663bf47595708
-Size: 1010942
+SHA512: 4e4cf7507d41d4478182e8c19fc7c99c20fa0ec96bae4f5040f7da6bd7ce9697fec6bcd2d94797d4bcedef17458a334a9807c60d096f07df0f9d4c104fe813c2
 
 Package: gnushogi
 Architecture: aarch64
@@ -137,9 +157,11 @@ Homepage: https://www.gnu.org/software/gnushogi/
 Depends: ncurses
 Description: Program that plays the game of Shogi, also known as Japanese Chess
 Filename: aarch64/gnushogi_1.4.2-2_aarch64.deb
+Size: 60998
+MD5Sum: 268dd5094bd5e00cc29a5543e4fea2ab
 SHA1: cef922e49e580a531c93f4afea11059361eb7fbc
 SHA256: 13bb8eb8dae330df2f8b111f355b4e2fa54a7c472a50ce96ecd9966da10508df
-Size: 60998
+SHA512: 49f05798b7d0df66f4cee4b9795573b0d224084f80184c2c0cfff3353e357d7efd0973c0801240091ef5e321c56615d997227ac80501262ac1f4676e2f5b06ca
 
 Package: greed
 Architecture: aarch64
@@ -150,9 +172,11 @@ Homepage: http://www.catb.org/~esr/greed/
 Depends: ncurses
 Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
 Filename: aarch64/greed_4.2-2_aarch64.deb
+Size: 8608
+MD5Sum: 90f2805691e241e9663e154840235828
 SHA1: 7b8b4e1cb369d786901695a6168c51d2df01f345
 SHA256: 57911a541bffa30fc607472c5f5f5da2b7c2ad61b45374017f828e6de3945e3b
-Size: 8608
+SHA512: 1fde4960d1075bf608e843067ddedcf0956cea371a81ca875d371adf6fef297292bc4e6e2f16185b84d41c999a417925a9e94d7818c0639e482ce31d9be729ea
 
 Package: moon-buggy
 Architecture: aarch64
@@ -163,9 +187,11 @@ Homepage: https://github.com/seehuhn/moon-buggy
 Depends: ncurses
 Description: Simple game where you drive a car across the moon's surface
 Filename: aarch64/moon-buggy_1.0.51-3_aarch64.deb
+Size: 28918
+MD5Sum: 4694a16578bac2020eff0e42afdd61a8
 SHA1: 069c53210a78ac0a39a2931f1af54881f8bae7e2
 SHA256: 4e7dfb2c63a07bbedf34c0413ff525727ec7f63cefd65721a405ffac96a88cec
-Size: 28918
+SHA512: e8d78f6f529a04d7665c6928665a3e1323f2a5caded8ba295693c6970c192f687a27d3957082171709a6f06ab88ffa8e8caee9a198893c4fc2b59b202c5852a8
 
 Package: moria
 Architecture: aarch64
@@ -176,9 +202,11 @@ Homepage: https://umoria.org
 Depends: ncurses
 Description: Rogue-like game with an infinite dungeon
 Filename: aarch64/moria_5.7.10-1_aarch64.deb
+Size: 193228
+MD5Sum: d14a7038f2f23c5ac2f206dee0a8830f
 SHA1: edaedc301682820152ffa1769159771e602d8c7a
 SHA256: 8f54decb3bf0b3ca4dd75362e3940a8d7c36de4811c165ba5237331b97146629
-Size: 193228
+SHA512: ee75f264e414c8b1ddaadc366dd48dedb80c298b30c9e34566335b69541b6318e1f09bef5bc9aaa149657d66885bdd2ad49903c268231076d1fce479ce042ee2
 
 Package: nethack
 Architecture: aarch64
@@ -189,9 +217,11 @@ Homepage: http://www.nethack.org/
 Depends: ncurses
 Description: Dungeon crawl game
 Filename: aarch64/nethack_3.6.2-2_aarch64.deb
+Size: 2395264
+MD5Sum: 021595ac8ce03978ef6581d178880158
 SHA1: 2ce68009d8bd994fded6f521494a2bff2b545919
 SHA256: 3f74f85d49073ab294e2c91e3a2822973b12d7c76af196ee32f9b8af35c5760a
-Size: 2395264
+SHA512: df690e6ac38d65970fc85b0a99b3762d94724d1367e56724ee469483f82c3330b3650e8115ba2fd145a3d732f5725bd1b7e27f192be9388776e6a5a911c0f525
 
 Package: ninvaders
 Architecture: aarch64
@@ -202,9 +232,11 @@ Homepage: http://ninvaders.sourceforge.net
 Depends: ncurses
 Description: Space Invaders clone based on ncurses for ASCII output
 Filename: aarch64/ninvaders_0.1.1-1_aarch64.deb
+Size: 16204
+MD5Sum: 2830064f58c8334b07cab43a4160dbf7
 SHA1: 5afd8939f961c3922801b9b49ef17824991f733d
 SHA256: e6ab5a3326ecbe63136b9a56a778a7594b6e3cb98e2eb3958fefb57353faad55
-Size: 16204
+SHA512: 83083e7531303ad3cbcafbc76cef4649e686499caf3fdc296e17ea70f7240ab7622aed3dd706c88ee217de88d3252462eee4fc98b736db9fb6069cfd959272fd
 
 Package: nsnake
 Architecture: aarch64
@@ -215,9 +247,11 @@ Homepage: https://github.com/alexdantas/nSnake
 Depends: ncurses
 Description: The classic snake game with textual interface
 Filename: aarch64/nsnake_3.0.1-1_aarch64.deb
+Size: 81860
+MD5Sum: 438a4751d94c54dd16326950ffaaef6b
 SHA1: aea94bc8502a463c195066d281a7599a6bd90903
 SHA256: 81cdeadeab68be5eaccf4f4ac6756f85a5b82070f85528dd607e338c3b40a181
-Size: 81860
+SHA512: 1c19a72c3d9ece0817323dbafab38e781051442cf6e675bdbf03881093c06ea925bcd792301adfef429e7d4b9b130ab9deddc3e1329699ef8c8015272aa9ce21
 
 Package: nudoku
 Architecture: aarch64
@@ -228,9 +262,11 @@ Homepage: http://jubalh.github.io/nudoku/
 Depends: ncurses
 Description: ncurses based sudoku game
 Filename: aarch64/nudoku_2.0.0-1_aarch64.deb
+Size: 7984
+MD5Sum: 39b5d646dab12a3cb8568c1413cf71b8
 SHA1: 54651c6439ddd75418e0733227fc922d5ae87304
 SHA256: 7e0512af94fea95c8cbe21ccb59afb7c267865896147de96b3fa4f855b0e067a
-Size: 7984
+SHA512: 12eee264599aa1fe1087fc96753eeb8ddab78f4349d24b96b5bcaa4cdef16a5e30a5c5a859fd0a77a5b11f09ced7913127a8181e188d85b1c2f9f0f9abf21c81
 
 Package: open-adventure
 Architecture: aarch64
@@ -241,9 +277,11 @@ Homepage: http://www.catb.org/~esr/open-adventure/
 Depends: libedit
 Description: Forward-port of the original Colossal Cave Adventure from 1976-77 which was the origin of all later text adventures, dungeon-crawl (computer) games, and computer-hosted roleplaying games
 Filename: aarch64/open-adventure_1.8-1_aarch64.deb
+Size: 46832
+MD5Sum: 57e3d437db6a8824f927a03e533284c0
 SHA1: 3425fc7c783697e1b74a3a6ae46c41077421f938
 SHA256: 0c8273c4946091b02d43ececcf3c44e4f44afcd86eeddc7f4ebdacf9ff08fe11
-Size: 46832
+SHA512: bec8ecbc116158c74c9b9c6221e18e06f4ecdd9a2a3e6c86cbb04d18f371ef93c20343d39e3e394219967f817158d7b7f928a23f3162368f704b3ac66d658c6e
 
 Package: pacman4console
 Architecture: aarch64
@@ -254,9 +292,11 @@ Homepage: https://sites.google.com/site/doctormike/pacman.html
 Depends: ncurses
 Description: A 9 level ncurses pacman game with editor
 Filename: aarch64/pacman4console_1.3-1_aarch64.deb
+Size: 12062
+MD5Sum: 79854e437f5ce5c84ac51e4265bd3010
 SHA1: c7b3d19e77b0778434f43ebdc0129de9e598197e
 SHA256: 13898d39765293f70f6d2c86eb42cd6d20bc9d93f53b74dbbf3b3f898a4e62df
-Size: 12062
+SHA512: 30576c8a888d410718560b4d431c06d6080a90d4740813734cd2b62e4a1379bb60a10d003a3658d80ef7036e5f60a640acdb244446433318e3191541ca6c4262
 
 Package: tty-solitaire
 Architecture: aarch64
@@ -267,9 +307,11 @@ Homepage: https://github.com/mpereira/tty-solitaire
 Depends: ncurses
 Description: Klondike solitaire game
 Filename: aarch64/tty-solitaire_1.1.1-1_aarch64.deb
+Size: 7580
+MD5Sum: affedac4dac9f5ee0579c51e20aedbb6
 SHA1: 03e96ce9a381196a0a6c172d0a1b276f4a323eb3
 SHA256: 3902c6f07ab09b4984cb72b133b1107228c627055c7b0e1284ee68493d6d369f
-Size: 7580
+SHA512: 9f4a890b50da048cf9916295e79cbf23086369e7694d6083951eae907907b8e2a982264b45544dfd2952cad88a4bb94d9008d8a9ac16aef270c59021da28d08c
 
 Package: vitetris
 Architecture: aarch64
@@ -280,7 +322,9 @@ Homepage: http://victornils.net/tetris/
 Depends: ncurses
 Description: Virtual terminal *tris clone
 Filename: aarch64/vitetris_0.58.0-1_aarch64.deb
+Size: 42830
+MD5Sum: 3baceeb8b33fb14cdf34cf605edbcc36
 SHA1: ff6c27ca6ebc39aca349b1f369f648949140aac6
 SHA256: 1cfa6c073d4cb8c10256c1c2b8b89c1c05fe32c6acb029fd4b4096288db170cf
-Size: 42830
+SHA512: 37c116932a15e33ad42ecf283dab9b21104312799c6287e691dcc6544de0a9123cbec55fcab9bb1588e8c8d246cb014b860e760878a5e464d4142cbf61208324
 
