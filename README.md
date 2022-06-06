@@ -15,5 +15,5 @@ deb https://dl.bintray.com/grimler/game-packages-21 games stable
 to
 
 ```
-deb https://termux.org/game-packages-21-bin games stable
+deb https://termux.dev/game-packages-21-bin games stable
 ```
